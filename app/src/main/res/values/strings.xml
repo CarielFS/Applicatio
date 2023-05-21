@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Applicatio</string>
+    <string name="students_btn">Students</string>
+    <string name="staff_btn">Staff</string>
+    <string name="error">No internet connection</string>
+    <string name="no_data">---</string>
+    <string name="err_character">Can not access character information</string>
+    <string name="curr_student">Already showing the students list</string>
+    <string name="curr_staff">Already showing the staff list</string>
+    <string name="house">House: %1$s</string>
+    <string name="ancestry">Ancestry: %1$s</string>
+    <string name="species">Species: %1$s</string>
+    <string name="is_alive">Is alive</string>
+    <string name="is_dead">Is dead</string>
+    <string name="wand">Has a wand with a %1$s core</string>
+    <string name="no_wand">Has no wand</string>
+    <string name="is_wizard">Is a wizard</string>
+    <string name="no_wizard">Is not a wizard</string>
+
+    <string name="close">Close</string>
+    <string name="info">Made by: Cariel Ferreira</string>
+
+</resources>
